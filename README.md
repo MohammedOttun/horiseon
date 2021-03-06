@@ -1,6 +1,6 @@
 # 🚀 Horiseon Marketing Agency 
 
-Visit out [website](https://mohammedottun.github.io/horiseon/)
+Visit our [website](https://mohammedottun.github.io/horiseon/)
 
 ### About Us
 We are a marketing agency with focus in the following areas to help our clients succeed in the online marketing space:
